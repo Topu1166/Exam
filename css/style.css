@@ -1,0 +1,214 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header .head1 img{
+  padding-top: 10px;
+}
+header .head2{
+width: 100%;
+display: block;
+}
+header .head2 ul{
+    list-style: none;
+    padding-left: 318px;
+    margin-top: 10px;
+}
+header .head2 li {
+    display: inline-block;
+    margin: 11px;
+    font-size: 14px;
+}
+header .head2 a{
+    text-decoration: none;
+    color: #B9B9B9;
+}
+
+/* Banner Section === Banner Section  */
+.banner{
+background: url(../img/banner.jpg);
+background-repeat: no-repeat;
+background-position: top center;
+background-size: cover;
+height: 600px;
+}
+.banner .banner1 h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 207px;
+}
+.banner .banner1 p{
+    font-size: 30px;  
+}
+.banner .banner1 button{
+    padding: 10px 15px;
+    font-size: 18px;
+    background: #76ee00;
+    border: none;
+    color: #FFF;
+    margin: 87px auto;
+    display: block;  
+}
+
+/* OneIcon Section OneIcon Section  */
+.oneIcon .oneIcon1 img{
+    margin-left: 500px;
+    margin-top: 96px;
+}
+.oneIcon .oneIcon1 h1{
+    text-align: center;
+    margin-top: 30px;  
+}
+.oneIcon .oneIcon1 p{
+    text-align: center;
+    margin-top: 30px;  
+    color: #999;
+}
+
+/* Find Section Find Section  */
+.find{
+    margin-top: 80px;
+}
+.find .find1 img{
+    padding-top: 36px;
+    padding-left: 41px;
+}
+.find .find3 img{
+    padding-top: 59px;
+    padding-left: 69px;
+}
+
+.find1{
+background-color: #E2F8FD;
+
+padding: 20px;
+}
+.find2{
+background-color: #E2F8FD;
+padding: 20px;
+}
+.find3{
+background: #F6F8EB;
+padding: 20px;
+}
+.find4{
+background: #F6F8EB;
+padding: 20px;
+}
+.find h1{
+ text-align: center;   
+}
+.find p{
+    text-align: center;
+    width: 93%;
+}
+.find button{
+    background: #76EE00;
+    border: none;
+    padding: 10px 12px;
+    border-radius: 4px;
+    margin: 20px auto;
+    display: block;
+}
+
+/* Feature section ==== Feature Section  */
+.feature{
+background: #FFFFFF;
+}
+.feature .fafa1{
+color:#ABD02A;
+font-size:25px;
+margin-top:40px;
+}
+.feature .fe1{
+    padding-top: 50px;
+    padding-left: 40px;
+}
+.feature .fe1 h1{
+color: #4A4A4A;
+}
+.feature .fe1 p{
+    color: #B7B7B7;
+    width: 86%;   
+}
+.feature .fe2{
+padding-top: 50px;
+}
+.feature .fe2 button{
+    border: 1px solid #CACACA;
+    padding: 10px 13px;
+    margin-left: 131px;
+    margin-top: 48px;
+    border-radius: 9px;
+    color: #999999;
+}
+.feature .fe3 {
+    background-color: #FAFAFA;
+    text-align: center;  
+}
+.feature .fe3 img{
+ padding-top: 25px;    
+}
+.feature .fe3 .btn {
+    border: 1px solid #27A4D0;
+    background: #27A4D0;
+    color: #fff;
+    margin-top: -104px;
+    margin-left: 158px;   
+}
+.feature .fe3 h3{
+    font-size: 22px;
+    background: #FAFAFA;
+    color: #4A4A4A;
+    text-align: left;
+    margin-left: 24px;
+}
+.feature .fe3 .text{
+    width: 88%;
+    font-size: 15px;
+    color: #B7B7B7;
+    padding-bottom: 45px;
+    padding-left: 40px;
+    text-align: left;
+    margin-left: -14px;
+}
+.feature .fe3 span{
+    border-bottom: 1px solid #D0D0D0;
+    padding: 10px 0px;
+    margin-left: -29px;
+    padding-bottom: 17px;
+}
+.feature .fe3 a{
+    text-decoration: none;
+}
+.feature .fe3 a:hover{
+text-decoration: none;
+}
+.feature .fe3 h5{
+    text-decoration: none;
+    color: #7E7E7E;
+    padding-left: 33px;
+    padding-bottom: 25px;
+}
+.footLogo{
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+.footLogo span{
+    border-bottom: 2px solid #F1F1F1;
+    width: 105%;
+    display: block;
+    margin-left: -65px;
+    padding-top: 30px;
+}
+.footLogo img{
+    width: 100%;
+    margin-left: -15px;  
+}
+.footer .footer-text{
+    padding: 10px 10px 50px;
+    color: #999;
+    font-size: 16px;
+    text-align: center;
+}
+
